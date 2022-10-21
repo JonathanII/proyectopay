@@ -1,48 +1,37 @@
-<h1 align="center"> Explorer Lab #01 </h1>
+<h1 align="center"> ProyectoPay </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
-</p>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+Proyecto desarrollado durante un evento exclusivo y gratuito relizado por Rocketseat, para promover la enseñanza  de tecnologias WEB.
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
+  <img alt="ProyectoPay" src="proyecto.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Este proyecto fue desarrollado con las siguientes tecnologias:
 
-- HTML e CSS
-- JavaScript e JSON
+- HTML y CSS
+- JavaScript y JSON
 - [Node e NPM](https://nodejs.org/)
 - [Vite](https://vitejs.dev/)
 - [iMask](https://imask.js.org)
 
-## 💻 Projeto
+## 💻 Proyecto
 
-O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
+Proyectopay es un componente que simula un formulario de relleno de tarjeta de credito, en el cual es posible rellenar las mascaras a los inputs y actualizar elementos HTML via DOM.
 
-## 🔖 Layout
+## 🔖 <h1 id="layout"> Layout </h1>
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Puedes visualizar el layout original del proyecto a travez [DE ESTE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate).
 
-## :memo: Licença
+## :memo: Licencia
 
-Esse projeto está sob a licença MIT.
+Este proyecto está sobre licencia MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Hecho con ♥ junto a Rocketseat :wave:
